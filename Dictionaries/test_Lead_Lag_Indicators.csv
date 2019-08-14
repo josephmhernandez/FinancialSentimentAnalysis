@@ -1,0 +1,71 @@
+revenue,LagInd
+customer satisfaction, LeadInd
+net profit,LagInd
+annual sales,LagInd
+total shareholder return,LeadInd
+TSR,LeadInd
+Net income,LagInd
+net earnings,LagInd
+EBIT,LagInd
+EBITDA,LagInd
+ROI,LagInd
+Return on investment,LagInd
+EVA,LagInd
+Turnover,LagInd
+Net Income Margin,LagInd
+Return of Sales,LagInd
+Operating Profit Margin,LeadInd
+ROCE,LagInd
+ROA,LagInd
+D/E Ratio,LagInd
+Cash Conversion Cycle,LagInd
+Working Capital Ratio,LeadInd
+Operating Expense Ratio,LeadInd
+CAPEX to Sales Ratio,LeadInd
+P/E Ratio,LeadInd
+Customer Lifetime Value,LeadInd
+Return on Innovation Investment,LagInd
+Human Capital Value Added,LeadInd
+Revenue per Employee,LeadInd
+Risk Likelihood,LeadInd
+Risk appetite,LeadInd
+risk exposure,LeadInd
+IT Cost,LagInd
+IT project cost,LagInd
+sales volume projection,LeadInd
+direct product profitability,LagInd
+revenue per user,LagInd
+sales per channel,LagInd
+Conversion Rate,LagInd
+upselling ,LagInd
+Cross-selling success rate,LagInd
+cost to serve,LeadInd
+acquisition,LeadInd
+sales,LagInd
+customer turnover,LagInd
+bounce rate,LeadInd
+brand persuasion score,LeadInd
+inventory ,LeadInd
+incident resolution,LeadInd
+website availability,LagInd
+system downtime,LagInd
+help desk,LeadInd
+Accident,LagInd
+Liquidated Damages,LagInd
+Over-budget,LagInd
+wage rate,LagInd
+sales growth,LeadInd
+growith in new markets,LeadInd
+new website trials,LeadInd
+Unique Website Views,LeadInd
+customer satisfaction,LeadInd
+employee morale,LeadInd
+defect rates,LeadInd
+order backlog,LeadInd
+Unemployment ,LagInd
+Building permits,LeadInd
+Retail sales,LeadInd
+manufactoring,LeadInd
+interest rate,LeadInd
+progress report,LeadInd
+

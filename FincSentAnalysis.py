@@ -8,15 +8,6 @@ of Financial News Articles using Performance Indicators" by Srikumar
 Krishnamoorthy. This project uses a financial specific lexicon that is 
 a compilation of positive & negative financial terms, directionality terms,
 and leading & lagging performance indicators. 
-
-
-taken from the Harvard dictionary as w
-
-
-
-
-
-flkasdj f;d fklasj d;flk asdjlfk asdj; fkj;d 
 '''
 import Direction_Parsing as direction_parser
 import Parsing as parser 

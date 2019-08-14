@@ -1,10 +1,14 @@
 #Sentiment Analysis: Hierarchal Sentiment Classifier
+'''
+This is ran once to generate the positive and negative word dictionary from the Harvard 
+LM Dictionary. It was also ran to create the directionality dictionary with manual input.  
+'''
 import os
 import csv
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import SnowballStemmer
-
+Analysis
 stemmer = SnowballStemmer("english")
 
 
